@@ -30,7 +30,7 @@ body:
     id: version
     attributes:
       label: Modpack Version
-      placeholder: ex. 0.7c
+      placeholder: ex. 1.0
       description: Insert a valid version (beta and releases allowed)
     validations:
       required: true
